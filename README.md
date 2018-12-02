@@ -37,3 +37,5 @@ How to get stared with the app: If someone wanted to clone your app from github 
 
 
 ![do-what-it-says](https://user-images.githubusercontent.com/42901367/49336475-c94eb900-f5b7-11e8-809a-590cba5a007a.png)
+
+*This Function still needs some work, I will revisit this and get this function working
